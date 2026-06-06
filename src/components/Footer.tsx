@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-5 gap-8 mb-12">
           {/* Company */}
           <div>
-            <h3 className="text-white font-bold text-lg mb-4">Reach AI MedTech</h3>
+            <img src="/Logo_-_reachai.png" alt="Reach AI MedTech" className="h-10" />
             <p className="text-sm text-gray-400">Scaling healthcare access with AI-powered kiosk technology and telemedicine infrastructure.</p>
             <div className="flex space-x-4 mt-4">
               <a href="#" className="hover:text-blue-400 transition"><Facebook size={20} /></a>

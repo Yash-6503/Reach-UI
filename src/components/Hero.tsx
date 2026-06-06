@@ -28,7 +28,7 @@ export default function Hero() {
         <div className="relative">
           <div className="relative z-10">
             <img
-              src="/reach_ai_kiosk.jpg"
+              src="/reachimg.jpg"
               alt="Reach AI Healthcare Kiosk with telemedicine interface"
               className="rounded-2xl shadow-2xl object-cover w-full h-auto transform hover:scale-105 transition-transform duration-300"
             />

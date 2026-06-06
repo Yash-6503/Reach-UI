@@ -33,7 +33,7 @@ export default function Header({ onNavigate, currentPage }: HeaderProps) {
           {/* Logo */}
           <button onClick={() => { onNavigate('home'); setIsOpen(false); }} className="flex items-center space-x-2">
             <img src="/Logo_-_reachai.png" alt="Reach AI MedTech" className="h-10" />
-            <span className="text-sm font-semibold text-gray-900 hidden sm:inline">Reach AI MedTech</span>
+            <span className="text-sm font-semibold text-gray-900 hidden sm:inline"></span>
           </button>
 
           {/* Desktop Menu */}

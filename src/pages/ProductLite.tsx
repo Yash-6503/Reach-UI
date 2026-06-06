@@ -38,8 +38,9 @@ export default function ProductLite() {
               ))}
             </ul>
           </div>
-          <div className="bg-gray-200 h-96 rounded-lg flex items-center justify-center">
-            <span className="text-gray-500">Product Image</span>
+          <div className=" h-96 rounded-lg flex items-center justify-center">
+            <img src="/reachimg2.webp" alt="Reach AI MedTech" className="" />
+            {/* <span className="text-gray-500">Product Image</span> */}
           </div>
         </div>
       </section>
